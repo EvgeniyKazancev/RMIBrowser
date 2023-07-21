@@ -1,6 +1,8 @@
 import Interface.Service;
 import Interface.ServiceServer;
+import Services.DayOfTheWeekService;
 import Services.DiceService;
+import Services.MiniMusicService;
 
 import java.rmi.Naming;
 import java.rmi.RemoteException;
